@@ -1,0 +1,15 @@
+# folder
+.vs
+bin
+dist
+installer
+installer_output
+obj
+Properties
+sinmai-launcher.Tests
+
+# files
+FEEDBACK.md
+GUIDE.md
+*.ps1
+*.png
